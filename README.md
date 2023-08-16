@@ -9,4 +9,6 @@
 * I use PCA for dimensionality reduction and left only 3 the most important features
 * I plot my dimensionality reduced data on 3D graph
 
-![]()
+![](https://github.com/JakubTabor/Portfolio_Clustering/blob/main/Images/3D_data_projection.png)
+
+# Next use elbow method to figure out optimal number of clusters
