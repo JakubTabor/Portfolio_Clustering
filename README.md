@@ -12,12 +12,14 @@
 ![](https://github.com/JakubTabor/Portfolio_Clustering/blob/main/Images/3D_data_projection.png)
 
 # Next use elbow method to figure out optimal number of clusters
-* 
+* We set how many clusters we have to use in this case (k = 10) it is the max number
+* It choose the best value and then we pass number of clusters to our Cluster model
 
 ![](https://github.com/JakubTabor/Portfolio_Clustering/blob/main/Images/elbow_method.png)
 
 # And I use Agglomerative Clustering to create those clusters, then plot their distribution on 3D graph
+* Groups are created based of their common features
 
 ![](https://github.com/JakubTabor/Portfolio_Clustering/blob/main/Images/cluster_plot.png)
 
-#  Then I check distribution of my clusters and go into details into customers profiling
+* Then I check distribution of my clusters and go into details into customers profiling
