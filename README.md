@@ -12,3 +12,10 @@
 ![](https://github.com/JakubTabor/Portfolio_Clustering/blob/main/Images/3D_data_projection.png)
 
 # Next use elbow method to figure out optimal number of clusters
+* 
+
+![](https://github.com/JakubTabor/Portfolio_Clustering/blob/main/Images/elbow_method.png)
+
+# And I use Agglomerative Clustering to create those clusters, then plot their distribution on 3D graph
+
+![]()
