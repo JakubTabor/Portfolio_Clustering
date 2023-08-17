@@ -18,4 +18,6 @@
 
 # And I use Agglomerative Clustering to create those clusters, then plot their distribution on 3D graph
 
-![]()
+![](https://github.com/JakubTabor/Portfolio_Clustering/blob/main/Images/cluster_plot.png)
+
+#  Then I check distribution of my clusters and go into details into customers profiling
