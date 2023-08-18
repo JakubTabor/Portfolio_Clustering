@@ -1,4 +1,6 @@
 # Our goal is to group unstructured data according to its similarities and patterns.
+* To reach it we need to apply some techniques
+# dimensionality reductions:
 
 # Clustering:
 * We can describe it as grouping similar informations
