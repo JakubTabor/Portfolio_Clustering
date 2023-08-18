@@ -13,3 +13,4 @@
 * I plot my dimensionality reduced data on 3D graph
 
 # Next use elbow method to figure out optimal number of clusters
+* And I use Agglomerative Clustering to create those clusters, then plot their distribution on 3D graph
