@@ -10,3 +10,4 @@
 * Then use StandardScaler to scale all of my data
 
 # I use PCA for dimensionality reduction and left only 3 the most important features
+* I plot my dimensionality reduced data on 3D graph
