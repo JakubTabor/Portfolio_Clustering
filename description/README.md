@@ -14,3 +14,5 @@
 
 # Next use elbow method to figure out optimal number of clusters
 * And I use Agglomerative Clustering to create those clusters, then plot their distribution on 3D graph
+
+# Then I check distribution of my clusters and go into details into customers profiling
