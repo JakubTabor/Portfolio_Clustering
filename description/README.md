@@ -7,3 +7,6 @@
 * Next I built correlation
 
 # I take care of Categorical features with help of LabelEncoder and I drop features on deals
+* Then use StandardScaler to scale all of my data
+
+# I use PCA for dimensionality reduction and left only 3 the most important features
