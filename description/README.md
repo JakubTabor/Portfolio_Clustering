@@ -4,3 +4,4 @@
 
 # First, we change the structure of my data to make it better self-descriptive
 * Then I make simple outliers cleaning from outliers with help of graph plot
+* Next I built correlation
