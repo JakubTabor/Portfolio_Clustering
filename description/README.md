@@ -20,3 +20,4 @@
 * And I use Agglomerative Clustering to create those clusters, then plot their distribution on 3D graph
 
 # Then I check distribution of my clusters and go into details into customers profiling
+* I use different plots to extract deeper sense of the informations about customer included in each cluster
