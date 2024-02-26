@@ -19,7 +19,7 @@
 
 # And I use Agglomerative Clustering to create those clusters, then plot their distribution on 3D graph
 * Groups are created based of their common features
+* Then I check distribution of my clusters and go into details into customers profiling
 
 ![](https://github.com/JakubTabor/Portfolio_Clustering/blob/main/Images/cluster_plot.png)
 
-* Then I check distribution of my clusters and go into details into customers profiling
